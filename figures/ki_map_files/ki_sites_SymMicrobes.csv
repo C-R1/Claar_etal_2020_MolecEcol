@@ -1,0 +1,12 @@
+f.pressure,site,area,f.level,smw.region,smw.fp,smw.prod,PMQ,fish.prod,lat,lon,loc.year
+Low,3,North-west,5,NOR,H,L,X,HighF/LowChl,2.0519,-157.45602,2009
+Medium,8,South west,4,LON,L,H,NA,LowF/HighChl,1.886,-157.552,2007
+Medium,14,South west/poland,4,POL,L,H,NA,LowF/HighChl,1.87482,-157.56383,2009
+Very Low,15,North wang,1,BOW,L,L,X,LowF/LowChl,1.82843,-157.32182,2009
+Medium,25,North-west,5,NOR,M,L,X,HighF/LowChl,2.05002,-157.48611,2009
+Very High,27,London,6,LON,H,H,X,HighF/HighChl,2.00973,-157.48941,2009
+Very High,30,London,6,LON,H,H,NA,HighF/HighChl,2.02572,-157.498,2009
+Very High,32,Lagoon mouth/london,6,LON,H,H,NA,HighF/HighChl,1.984,-157.482,2009
+Medium,34,South west,4,LON,L,H,X,LowF/HighChl,1.90992,-157.53456,2009
+Medium,35,South west,4,LON,L,H,X,LowF/HighChl,1.89417,-157.54283,2009
+Low,38,North-west,5,NOR,H,L,NA,HighF/LowChl,2.04572,-157.43373,2009

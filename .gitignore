@@ -1,0 +1,93 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+/*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# .DS_Store
+.DS_Store
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# Ignore intermediate clustering files
+data/ITS2/data/otus_97_bysample/KI*
+data/ITS2/data/fasta/*
+data/ITS2/data/merge/*
+data/ITS2/data/Bioinf/clust/97_otus_bysample.biom
+data/ITS2/data/Bioinf/clust/all_97_otus.txt
+data/ITS2/data/Bioinf/clust/all_rep_set.fasta
+data/ITS2/data/Bioinf/clust/all_rep_set_clusters.uc
+data/ITS2/data/Bioinf/clust/all_rep_set_otus.log
+data/ITS2/data/Bioinf/clust/all_rep_set_otus.txt
+data/ITS2/data/Bioinf/clust/merged_otu_map.txt
+data/ITS2/data/Bioinf/clust/nosingles_otus.txt
+data/ITS2/data/Bioinf/clust/KI*
+
+# Ignore raw data files
+data/ITS2/Bioinf/sequences/KI*
+data/ITS2/Bioinf/sequences/*
+
+# Ignore config files
+*config
+
+*.swp
+
+#Ignore .log files
+*.log
+
+#Ignore Temporary Microsoft Office Files
+data/~*
+ms/~*
+figures/~*
+analyses/~*
+
+#Ignore .ini files
+**/desktop.ini
+
+.Rproj.user
+
+#Lockfiles
+*.~lock.*
+
+analyses/16S/pynast_aligned/
+data/16S_qiita_biom/derep_up/log_20180706101223.txt
+data/16S_qiita_biom/derep_up/otu_table.biom
+data/16S_qiita_biom/derep_up/pynast_aligned_seqs/
+data/16S_qiita_biom/derep_up/rep_set/
+data/16S_qiita_biom/derep_up/uclust_assigned_taxonomy/
+data/16S_qiita_biom/derep_up/uclust_picked_otus/
+data/16S_qiita_biom/dereplication_params.txt
+data/16S_qiita_biom/reference-hit.seqs-all-90bp.tre
+data/16S_qiita_biom/reference-hit.seqs-all-90bpdrep.fa
+
+data/ITS2/data/ITS2db_trimmed_derep.fasta
+data/ITS2/data/ITS2db_trimmed_notuniques_otus.txt
